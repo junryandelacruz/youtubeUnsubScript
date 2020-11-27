@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606434264 source:e:\projects\unsubscribe script\main.cpp
+	<iostream>
+	<Windows.h>
+	<winuser.h>
+
